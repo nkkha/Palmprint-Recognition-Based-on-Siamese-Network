@@ -27,5 +27,6 @@ The ROI extraction process is crucial for accurately isolating the palm region, 
 The core of this project is a Siamese Network, a type of neural network architecture designed to find the similarity between two inputs. This architecture is particularly well-suited for tasks like palmprint recognition, where the goal is to determine whether two palm images belong to the same individual.
 
 ## Authentication App
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/cc1f66d9-1884-4a79-ba4b-d0cae1f2fb05">
+<img width="772" alt="image" src="https://github.com/user-attachments/assets/8368dcc2-64d4-439d-b857-77c2ce04fbe7">
+
 
